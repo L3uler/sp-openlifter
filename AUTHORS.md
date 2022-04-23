@@ -6,6 +6,10 @@ If you make a contribution to OpenLifter, please add yourself to this file!
 
 Please also add yourself to the in-program credits in `src/containers/AboutContainer.tsx`.
 
+## Modifiers
+
+This is a modified version of the base openlifter application produced for Scottish Powerlifting. Modifications were performed by Liam McRoe. Below are the list of authors for the original openlifter application.
+
 ## Maintainers
 
 * Sean Stangl ([GitHub](https://github.com/sstangl/), [GitLab](https://gitlab.com/sstangl))
