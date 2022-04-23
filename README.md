@@ -1,3 +1,5 @@
+Note: this is a modified version of openlifter produced for Scottish Powerlifting meant for interaction with [PowerliftServer](https://github.com/L3uler/PowerliftServer). Modification was performed in Q1 2022. Information about the original openlifter (including link to the original source) can be found at: https://www.openlifter.com/en/.
+
 # OpenLifter
 
 > Simple software for running a local powerlifting competition.
